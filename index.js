@@ -52,6 +52,6 @@ async function init () {
     const response = await inquirer.prompt(questions);
     writeToFile("README.md", markdown(response));
 }
-
+ 
 // Initialize program
 init();
