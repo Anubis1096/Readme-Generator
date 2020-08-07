@@ -24,3 +24,6 @@ Builds a README file based on user input from the command line.
  N/A
 ## Questions: 
  If you have questions, please PM me.
+
+## Link to video demonstration
+https://www.youtube.com/watch?v=JwEJjwURZJ0&feature=youtu.be
